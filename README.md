@@ -68,6 +68,3 @@ We evaluated the performance of the following models to predict sales:
    - An advanced boosting algorithm designed for high performance and accuracy.
   
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for details.

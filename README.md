@@ -13,7 +13,7 @@ This project can be helpful for store managers and decision-makers to optimize p
 - [Usage](#usage)
 - [Model Evaluation](#model-evaluation)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Data
 
